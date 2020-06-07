@@ -1,0 +1,72 @@
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 80vh;
+}
+.container .signupLayout{
+  justify-content: center;
+  align-items: center;
+  padding: 15px;
+  background-color: #31D9E4;
+}
+.signupLayout .jss448{
+  width: 40px;
+  height: 4px;
+  margin: 8px auto 5px;
+  display: block;
+  background-color: #fff;
+}
+.signupLayout .title{
+  color: #fff;
+  font-size: 24px;
+  font-weight: 700;
+  line-height: 1.04;
+  text-transform: uppercase;
+}
+.signupLayout p{
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 1.5;
+  text-align: center;
+  text-decoration: none;
+}
+.signupLayout .firstnamecontainer{
+    padding: 10px;
+}
+.signupLayout .emailconatiner{
+    padding: 10px;
+}
+
+.signupLayout .lastnamecontainer{
+    padding: 10px;
+}
+.signupLayout .passwordcontainer{
+    padding: 10px;
+}
+.signupLayout .submitbutton .btn-primary{   
+  background-color: #8C46E9 !important;
+  width: 528px !important;
+  color: #ffff !important;
+  border: none !important;
+  margin-top: 5px !important;
+  padding: 7px 15px !important;
+  font-family: "Poppins", sans-serif !important;
+}
+
+.signupLayout .form-control{
+  padding: 10px 14px !important;
+  width: 531px !important;
+  background-color: white !important;
+}
+.signupLayout .input-group{
+    padding: 10px !important;
+}
+.signupLayout .input-group .custom-select{
+  padding: 10px 14px !important;
+  width: 531px !important;
+  background-color: white !important;
+}
+.signupLayout .submitbutton{
+    padding: 10px;
+}

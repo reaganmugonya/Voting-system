@@ -1,0 +1,54 @@
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 80vh;
+}
+
+.container .loginLayout{
+  justify-content: center;
+  align-items: center;
+  padding: 15px;
+  background-color: #31D9E4;
+}
+
+.loginLayout .jss448 {
+  width: 55px;
+  height: 4px;
+  margin: 0px auto 10px;
+  display: block;
+  background-color: #fff;
+}
+
+.loginLayout h1 {
+  font-size: 24px;
+}
+
+.loginLayout h1,
+.loginLayout h5,
+.loginLayout .forgotpassword {
+  text-align: center;
+  color: #fff;
+}
+
+.loginLayout .form-control{
+  padding: 10px 14px !important;
+  width: 380px !important;
+  background-color: white !important;
+  border-radius: 4px !important;
+}
+
+.loginLayout .btn-primary{
+  background-color: #8C46E9 !important;
+  width: 380px !important;
+  color: #ffff !important;
+  border: none !important;
+  margin-top: 7px !important;
+  padding: 7px 15px !important;
+  margin-bottom: 8px !important;
+  font-family: "Poppins", sans-serif !important;
+}
+
+.loginLayout {
+    text-decoration: none;
+}
